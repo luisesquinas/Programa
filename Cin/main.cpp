@@ -19,5 +19,4 @@ int main() {
     return 0;
 }
 
-// Prueba con pull-push
-
+// Prueba con el botón de sincronizar
