@@ -31,3 +31,5 @@ void juega(int &intentos, int numeroSecreto){
 void resultados(int intentos){
     cout << "\nHAS ACERTADO EN INTENTOS " +to_string(intentos)+ "!!!\n\n";
   }  
+
+  /prueba git
