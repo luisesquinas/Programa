@@ -3,7 +3,7 @@
 using namespace std;
 
 
-int main() {
+int main() { 
     // declaración variables
     string mensaje =  "...";
     string nombre;
@@ -18,3 +18,5 @@ int main() {
     cout << mensaje;
     return 0;
 }
+
+
