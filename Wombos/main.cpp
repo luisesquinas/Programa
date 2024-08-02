@@ -5,6 +5,7 @@
 
 int main() {
     std::vector<std::string> opciones = {
+        "Akali + Zed",
         "Akshan + Pyke",
         "Ashe + Mundo",
         "Chino + Pantheon",
