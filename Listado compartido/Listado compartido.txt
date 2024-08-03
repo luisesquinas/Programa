@@ -1,0 +1,15 @@
+listadoAlumnos.txt
+
+PROGRAMA
+1. Crear o abrir el txt
+
+2. Preguntar si quiere añadir nuevo nombre
+
+3. Capturar nombre y añadir el txt
+
+OTROS
+4. Publicar en GITHUB
+
+5. Añadir compañeros como colaboradores
+
+6. Proponer cambio código y añadir el txt de un compañero
