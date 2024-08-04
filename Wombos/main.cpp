@@ -6,26 +6,26 @@
 
 int main() {
     std::vector<std::string> opciones = {
-        "Akali + Zed",
-        "Akshan + Pyke",
-        "Ashe + Mundo",
+        "Akali + Zed (wombo ninja)",
+        "Akshan + Pyke (wombo invisible)",
+        "Ashe + Mundo (Los frenadores del infierno)",
         "Chino + Pantheon",
-        "Darius + Sett",
-        "Graves + Teemo",
+        "Darius + Sett (duo mascachapa)",
+        "Graves + Teemo (combo cegador)",
         "Kaisa + Cartitas",
-        "Maokai + Teemo",
-        "Nautilus + Leona",
-        "Nocturne + Cartitas",
-        "Olaf + Mundo",
-        "Seraphine + Sona",
+        "Maokai + Teemo (wombo de cagadiñas)",
+        "Nautilus + Leona (wombo de stun infinito)",
+        "Nocturne + Cartitas (wombo de ultis)",
+        "Olaf + Mundo (duo de achazos al horto)",
+        "Seraphine + Sona (doble sona combo)",
         "Tahm + Yasuo",
-        "Tahm + Zac",
-        "Talon + Zed",
-        "Tresh + Blitz",
-        "Urgot + Singed",
-        "Varus + Ashe",
+        "Tahm + Zac (doble catapulta)",
+        "Talon + Zed (wombo de asesinos)",
+        "Tresh + Blitz (wombo de ganchos)",
+        "Urgot + Singed (doble catapulta)",
+        "Varus + Ashe (wombo ulti de flechas)",
         "Vexx + Neeko",
-        "Xerath + Lux"
+        "Xerath + Lux (castigadores del infierno)"
     };
 
     std::random_device rd;
