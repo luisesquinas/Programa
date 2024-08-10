@@ -1,0 +1,15 @@
+comando útiles:
+g++ -c multiplica.cpp -o multiplica.o
+ar rcs multiplica.lib multiplica.o
+g++ main.cpp -L. -|:multiplica.lib -o p.exe
+
+Reto: (resolvemos el 31/07):
+creamos 3 librerías (en el mismo proyecto/repositorio)
+- sin el main
+Pueden ser .cpp+.h o bien .lib+.h
+dar un valor aleatorio
+mostrar un menú
+operación entre X números
+
+añadimos el README.rm donde cuenta cómo usarlas
+si hace falta el .gitignore con el main.cpp
