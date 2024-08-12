@@ -8,15 +8,19 @@ int main() {
     std::vector<std::string> opciones = {
         "Akali + Zed (wombo ninja)",
         "Akshan + Pyke (wombo invisible)",
-        "Ashe + Mundo (Los frenadores del infierno)",
+        "Ashe + Mundo (los frenadores del infierno)",
         "Chino + Pantheon",
         "Darius + Sett (duo mascachapa)",
         "Graves + Teemo (combo cegador)",
         "Kaisa + Cartitas",
+        "Miss Fortune + Veigar (jaula infernal)",
         "Maokai + Teemo (wombo de cagadiñas)",
+        "Morgana + Veigar",
         "Nautilus + Leona (wombo de stun infinito)",
         "Nocturne + Cartitas (wombo de ultis)",
+        "Nocturne + Shen (wombo de ultis 2.0)",
         "Olaf + Mundo (duo de achazos al horto)",
+        "Pantheon + Leona",
         "Seraphine + Sona (doble sona combo)",
         "Tahm + Yasuo",
         "Tahm + Zac (doble catapulta)",
@@ -25,6 +29,7 @@ int main() {
         "Urgot + Singed (doble catapulta)",
         "Varus + Ashe (wombo ulti de flechas)",
         "Vexx + Neeko",
+    
         "Xerath + Lux (castigadores del infierno)"
     };
 
