@@ -13,4 +13,4 @@ class Configuracion{
 
         void cargarFichero();
         void guardaFichero();
-};
+}
