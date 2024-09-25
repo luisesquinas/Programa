@@ -37,7 +37,7 @@ void checkRespuesta(int n, string r){
    }     
 }
 
-void preguna(int numPregunta){
+void pregunta(int numPregunta){
     string respuesta;
 
     getEnunciado(numPregunta);
